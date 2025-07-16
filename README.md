@@ -14,8 +14,8 @@ npx cap sync
 
 <docgen-index>
 
-- [`enable()`](#enable)
-- [`disable()`](#disable)
+* [`enable()`](#enable)
+* [`disable()`](#disable)
 
 </docgen-index>
 
@@ -30,7 +30,8 @@ enable() => Promise<{ status: 'enable'; }>
 
 **Returns:** <code>Promise&lt;{ status: 'enable'; }&gt;</code>
 
----
+--------------------
+
 
 ### disable()
 
@@ -40,6 +41,6 @@ disable() => Promise<{ status: 'disable'; }>
 
 **Returns:** <code>Promise&lt;{ status: 'disable'; }&gt;</code>
 
----
+--------------------
 
 </docgen-api>

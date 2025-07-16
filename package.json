@@ -1,6 +1,6 @@
 {
   "name": "@aliadamovich/capacitor-swipe-back-plugin",
-  "version": "1.0.1-cap7",
+  "version": "1.0.2-cap7",
   "description": "Capacitor swipe back plugin. compatible for Capacitor v7 ",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "CapacitorSwipeBackPlugin.podspec"
+    "AliadamovichCapacitorSwipeBackPlugin.podspec"
   ],
   "author": "Alesya Adamovich",
   "license": "MIT",
