@@ -1,7 +1,7 @@
 {
-  "name": "capacitor-swipe-back-plugin",
-  "version": "2.0.0",
-  "description": "Capacitor swipe back plugin. For Capacitor v3, v4 (0.0.3) and v5 (1.0.0+). For v2 use original plugin: https://github.com/diiiary/capacitor-plugin-ios-swipe-back",
+  "name": "@aliadamovich/capacitor-swipe-back-plugin",
+  "version": "1.0.0-cap7",
+  "description": "Capacitor swipe back plugin. compatible for Capacitor v7 ",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -13,14 +13,11 @@
     "ios/Plugin/",
     "CapacitorSwipeBackPlugin.podspec"
   ],
-  "author": "Ales Mraz",
+  "author": "Alesya Adamovich",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alesmraz/capacitor-plugin-swipe-back.git"
-  },
-  "bugs": {
-    "url": "https://github.com/alesmraz/capacitor-plugin-swipe-back/issues"
+    "url": "git+https://github.com/aliadamovich/capacitor-plugin-swipe-back.git"
   },
   "keywords": [
     "capacitor",

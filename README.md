@@ -1,6 +1,7 @@
 # capacitor-swipe-back
 
-Capacitor swipe back plugin. For Capacitor v3, v4 (0.0.3), v5 (1.0.0) and v6 (2.0.0). For v2 use original plugin: https://github.com/diiiary/capacitor-plugin-ios-swipe-back
+This is a Capacitor 7-compatible fork of alesmraz/capacitor-plugin-swipe-back, originally developed by Ales Mraz.
+Original: https://www.npmjs.com/package/capacitor-swipe-back-plugin
 
 ## Install
 
@@ -13,8 +14,8 @@ npx cap sync
 
 <docgen-index>
 
-* [`enable()`](#enable)
-* [`disable()`](#disable)
+- [`enable()`](#enable)
+- [`disable()`](#disable)
 
 </docgen-index>
 
@@ -29,8 +30,7 @@ enable() => Promise<{ status: 'enable'; }>
 
 **Returns:** <code>Promise&lt;{ status: 'enable'; }&gt;</code>
 
---------------------
-
+---
 
 ### disable()
 
@@ -40,6 +40,6 @@ disable() => Promise<{ status: 'disable'; }>
 
 **Returns:** <code>Promise&lt;{ status: 'disable'; }&gt;</code>
 
---------------------
+---
 
 </docgen-api>
